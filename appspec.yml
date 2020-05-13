@@ -1,4 +1,5 @@
 version: 0.0
+os: linux
 cron: 
   - name: "task1"
     url: "/scheduled.php"
