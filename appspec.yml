@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /index.php
-    destination: /home/webapp/index.php
+    destination: /homeee/webapp/index.php
 cron: 
   - name: "task1"
     url: "/scheduled.php"
